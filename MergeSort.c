@@ -80,7 +80,6 @@ void display(int arr[], int n)
     printf("\n");
 }
 
-// Main Function
 int main()
 {
     int n, i;
