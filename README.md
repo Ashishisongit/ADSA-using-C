@@ -1,1 +1,1 @@
-The Program Demonstrates Merge Sort Operation of Advanced Data Structure . 
+The Programme Demonstrates Merge Sort Operation of Advanced Data Structure . 
