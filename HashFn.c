@@ -41,9 +41,7 @@ void main()
     {
     printf("\nEnter the Key and the Data of Element %d: ",i+1);
     scanf("%d %d",&key ,&data);
-    }    
     insert(key,data);
-
-
+    }    
     return;
 }
