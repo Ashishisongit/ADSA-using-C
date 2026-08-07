@@ -34,11 +34,15 @@ void insert(int key, int data)
 }
 void main()
 {
-    insert(78, 981);
-    insert(45, 478);
-    insert(94, 45);
-    insert(53, 589);
-    insert(45, 845);
+   int n , key , data;
+    printf("Enter the Number of Elements : ");
+    scanf("%d",&n);
+    for(int i=0 ; i<n ; i++)
+    {
+    printf("\nEnter the Key and the Data of Element %d: ",i+1);
+    scanf("%d %d",&key ,&data);
+    }    
+    insert(key,data);
 
 
     return;
